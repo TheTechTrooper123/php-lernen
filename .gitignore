@@ -1,0 +1,9 @@
+# Laufzeit- und Log-Dateien (nicht versionieren)
+*.log
+
+# Editor-/Backup-Dateien
+*.bak
+*~
+
+# Lokales Hilfsskript – nicht Teil des Lernprojekts
+commiter.sh
