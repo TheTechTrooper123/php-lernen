@@ -28,7 +28,7 @@ Themen:
 - Reguläre Ausdrücke
 
 Zu vielen Beispielen liegen zusätzlich kurze Notizen (`*_notiz.txt`) bei, in
-denen das jeweilige Thema in eigenen Worten zusammengefasst ist.
+denen das jeweilige Thema zusammengefasst ist.
 
 ## Hinweis
 
