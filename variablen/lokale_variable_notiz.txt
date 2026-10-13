@@ -1,0 +1,3 @@
+Notiz zu lokale_variable.php
+
+In der Funktion Variable() wird eine lokale Variable $var mit dem Wert 20 definiert und innerhalb der Funktion per echo ausgegeben. Nach dem Funktionsaufruf versucht das Skript, außerhalb der Funktion auf $var zuzugreifen, was einen Fehler wegen einer undefinierten Variable verursacht. Damit zeigt das Beispiel, dass lokale Variablen nur innerhalb ihrer Funktion gültig sind. Verwendet werden das Konzept des lokalen Gültigkeitsbereichs und echo zur Ausgabe.

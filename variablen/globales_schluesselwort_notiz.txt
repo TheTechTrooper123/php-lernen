@@ -1,0 +1,3 @@
+Notiz zu globales_schluesselwort.php
+
+Das Skript definiert die globalen Variablen $var1 (10) und $var2 (25). In der Funktion Funktion1() werden beide mit dem Schlüsselwort global referenziert, wodurch die Funktion direkt auf die globalen Variablen zugreift. Danach wird $var2 auf die Summe von $var1 und $var2 gesetzt, sodass der geänderte Wert auch außerhalb der Funktion sichtbar ist. Abschließend gibt echo den neuen Wert 35 aus. Veranschaulicht wird das global-Schlüsselwort zur Referenzierung globaler Variablen.
