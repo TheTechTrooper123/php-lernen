@@ -1,0 +1,3 @@
+Notiz zu static_schluesselwort.php
+
+Die Funktion Funktion() deklariert die static-Variable $var1 mit dem Startwert 10. Bei jedem Aufruf wird der aktuelle Wert ausgegeben und danach um eins erhöht; da static den Wert zwischen den Aufrufen behält, erscheinen nacheinander 10, 11 und 12. Die Funktion wird dreimal hintereinander aufgerufen, und echo gibt die Werte mit <br /> aus. Veranschaulicht wird das Konzept der static-Variable und die Persistenz ihres Werts über Funktionsaufrufe hinweg.
