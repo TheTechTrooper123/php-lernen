@@ -1,0 +1,3 @@
+Notiz zu var_dump.php
+
+Dieses kurze Skript legt Variablen der Datentypen int, float, string und bool an und fasst sie in einem Array mit gemischten Werten zusammen. Mit var_dump() wird für das Array der Datentyp jedes Elements samt Wert ausgegeben. Es zeigt damit die Grunddatentypen und die Diagnosefunktion var_dump zum Inspizieren von Werten.

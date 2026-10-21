@@ -1,0 +1,3 @@
+Notiz zu GLOBALS_felder.php
+
+Das Skript legt die globalen Variablen $global_var1 (2) und $global_var2 (4) an. In der Funktion Funktion() wird über das $GLOBALS-Array auf diese zugegriffen und $GLOBALS['global_var2'] auf die Summe beider Werte gesetzt. Weil damit die globale Variable selbst verändert wird, gibt echo nach dem Funktionsaufruf den neuen Wert 6 aus. Es zeigt den Zugriff auf und die Änderung von globalen Variablen über die Superglobale $GLOBALS.
