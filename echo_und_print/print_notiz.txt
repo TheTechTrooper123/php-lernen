@@ -1,0 +1,3 @@
+Notiz zu print.php
+
+Die Datei demonstriert das Sprachkonstrukt print zum Ausgeben von Text und Variablen. Es werden mehrere HTML-Zeilen und Sätze ausgegeben, anschließend werden Variablen definiert und mit dem Punktoperator zu Ausgaben zusammengesetzt. Zum Schluss wird eine Subtraktion der Werte 10 und 0.5 ausgeben. Die einleitenden Kommentare erklären den Unterschied zu echo: print besitzt einen Rückgabewert von 1 und akzeptiert nur ein Argument.

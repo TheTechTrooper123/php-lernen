@@ -1,0 +1,3 @@
+Notiz zu echo.php
+
+Die Datei zeigt die Verwendung der Sprachkonstrukte echo zum Ausgeben von Text und Variablen auf dem Bildschirm. Zuerst werden HTML-Überschriften und ein Satz ausgegeben, wobei echo mit mehreren durch Komma getrennten Parametern genutzt wird. Danach werden Variablen definiert und per Punktoperator konkateniert sowie eine Addition der Zahlen 10 und 0.5 direkt ausgegeben. Kommentare im Kopf erläutern, dass echo keinen Rückgabewert hat, mehrere Argumente annimmt und etwas schneller als print ist.
