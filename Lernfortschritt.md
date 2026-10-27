@@ -5,3 +5,4 @@
 - 2026-10-13: Variablen – lokale_variable_notiz.txt, globales_schluesselwort.php, globales_schluesselwort_notiz.txt
 - 2026-10-21: Variablen – static_schluesselwort.php, static_schluesselwort_notiz.txt, GLOBALS_felder.php
 - 2026-10-21: Variablen und Datentypen – GLOBALS_felder_notiz.txt, var_dump.php, var_dump_notiz.txt
+- 2026-10-27: Datentypen – klasse_objekt.php, klasse_objekt_notiz.txt, klasse_objekt2.php, klasse_objekt2_notiz.txt

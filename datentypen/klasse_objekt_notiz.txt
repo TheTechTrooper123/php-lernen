@@ -1,0 +1,3 @@
+Notiz zu klasse_objekt.php
+
+Dieses Beispiel definiert die Klasse Name mit den öffentlichen Eigenschaften vorname und nachname. Ein Konstruktor __construct initialisiert beide Werte, und die Methode vorstellung() gibt daraus einen Begrüßungstext zurück. Mit new Name("Till", "Siskos") wird ein Objekt erzeugt und dessen Methode per echo ausgegeben. Es demonstriert also die objektorientierten Grundlagen Klasse, Objekt, Eigenschaft, Konstruktor und Methode.

@@ -1,0 +1,3 @@
+Notiz zu klasse_objekt2.php
+
+Hier wird die Klasse Student mit den öffentlichen Eigenschaften name und studiengang angelegt. Der Konstruktor __construct setzt beide Werte, und die Methode vorstellung() liefert einen Text mit Name und Fachbereich. Nach der Instanziierung mit new Student("Till Siskos", "Informationstechnik") wird die Methode über echo ausgegeben. Das Beispiel vertieft das Erzeugen und Verwenden von Objekten in PHP.
