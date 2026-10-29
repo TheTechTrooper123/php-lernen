@@ -1,0 +1,3 @@
+Notiz zu sortieren.php
+
+Die Datei zeigt das Sortieren von Feldern mit den PHP-Funktionen sort, rsort, arsort und krsort. Ein indiziertes Feld wird zunächst aufsteigend mit sort und dann absteigend mit rsort sortiert und per for-Schleife ausgegeben. Ein assoziatives Feld wird absteigend nach Werten mit arsort und absteigend nach Schlüsseln mit krsort sortiert und per foreach ausgegeben. Verwendet werden Sortierfunktionen, count sowie for- und foreach-Schleifen.

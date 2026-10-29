@@ -1,0 +1,3 @@
+Notiz zu mehrdimensional.php
+
+Die Datei legt ein zweidimensionales Feld an, in dem jede Zeile aus Name, Geschlecht und Alter einer Person besteht. Zuerst werden die Werte einzeln über doppelte Indizes ausgegeben, danach werden sie mit zwei verschachtelten for-Schleifen zeilen- und spaltenweise durchlaufen. Verwendet werden mehrdimensionale Arrays, count und verschachtelte for-Schleifen mit Indexzugriff.
