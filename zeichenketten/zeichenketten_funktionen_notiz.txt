@@ -1,0 +1,3 @@
+Notiz zu zeichenketten_funktionen.php
+
+Das Skript speichert den Namen "Till Beispiel Siskos" in der Variable $name und wendet mehrere Zeichenkettenfunktionen darauf an. strlen() zählt die Zeichen, str_word_count() die Wörter, strrev() kehrt die Zeichenkette um und strpos() sucht die Position von "Siskos". Mit str_replace() wird "Beispiel" durch "Exempel" ersetzt, alle Ergebnisse werden per echo mit <br /> ausgegeben. Es demonstriert die Verwendung wichtiger PHP-Stringfunktionen.

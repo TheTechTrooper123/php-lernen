@@ -1,0 +1,3 @@
+Notiz zu feld1.php
+
+Die Datei aktiviert mit declare(strict_types=1) die strikte Typisierung und definiert ein gemischtes, indiziertes Feld aus Zeichenkette, Ganzzahlen, Wahrheitswerten und einer Gleitkommazahl. Ausgegeben wird das erste Element über nl2br, danach wird mit count die Länge des Feldes ermittelt und ausgegeben. Verwendet werden indizierte Arrays, count sowie die strengen Typregeln.
