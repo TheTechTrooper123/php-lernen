@@ -1,0 +1,3 @@
+Notiz zu while.php
+
+Die Datei zeigt die while-Schleife anhand eines bei 1 initialisierten Zählers. Solange der Zähler kleiner oder gleich 5 ist, wird die Nummer ausgegeben und der Zähler um eins erhöht. Verwendet werden die while-Schleife mit vorangestellter Bedingungsprüfung und der Inkrement-Operator.

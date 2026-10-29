@@ -10,3 +10,4 @@
 - 2026-10-29: Zeichenketten und Arrays – zeichenketten_funktionen.php, zeichenketten_funktionen_notiz.txt, feld1.php, feld1_notiz.txt
 - 2026-10-29: Arrays – index.php, index_notiz.txt, assoziativ.php, assoziativ_notiz.txt
 - 2026-10-29: Arrays – mehrdimensional.php, mehrdimensional_notiz.txt, sortieren.php, sortieren_notiz.txt
+- 2026-10-29: Schleifen – for.php, for_notiz.txt, while.php, while_notiz.txt

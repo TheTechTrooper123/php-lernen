@@ -1,0 +1,3 @@
+Notiz zu for.php
+
+Die Datei demonstriert die for-Schleife mit einem Zähler, der bei 1 initialisiert wird. Solange der Zähler kleiner oder gleich 5 ist, wird die aktuelle Nummer ausgegeben und der Zähler erhöht. Verwendet werden die for-Schleife mit Initialisierung, Bedingung und Inkrement.
