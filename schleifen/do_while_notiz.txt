@@ -1,0 +1,3 @@
+Notiz zu do_while.php
+
+Die Datei demonstriert die do...while-Schleife anhand eines Zählers, der bei 3 beginnt. Der Rumpf der Schleife wird mindestens einmal ausgeführt, gibt die aktuelle Nummer aus und erhöht den Zähler, bevor die Bedingung ($nummer <= 10) geprüft wird. Verwendet werden die do...while-Schleife und ein Inkrement-Operator.

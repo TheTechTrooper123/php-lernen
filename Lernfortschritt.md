@@ -11,3 +11,4 @@
 - 2026-10-29: Arrays – index.php, index_notiz.txt, assoziativ.php, assoziativ_notiz.txt
 - 2026-10-29: Arrays – mehrdimensional.php, mehrdimensional_notiz.txt, sortieren.php, sortieren_notiz.txt
 - 2026-10-29: Schleifen – for.php, for_notiz.txt, while.php, while_notiz.txt
+- 2026-10-29: Schleifen – do_while.php, do_while_notiz.txt, foreach.php, foreach_notiz.txt

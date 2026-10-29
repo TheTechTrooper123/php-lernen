@@ -1,0 +1,3 @@
+Notiz zu foreach.php
+
+Die Datei definiert ein assoziatives Feld, das Personen ihren Studiengängen zuordnet. Mit einer foreach-Schleife wird über das Feld iteriert und Schlüssel und Wert werden zusammen ausgegeben. Auskommentierte Varianten zeigen, wie man nur Schlüssel oder nur Werte ausgeben würde. Verwendet werden assoziative Arrays und die foreach-Schleife mit $schluessel => $wert.
