@@ -1,0 +1,3 @@
+Notiz zu index.php
+
+Die Datei definiert ein indiziertes Feld mit gemischten Werten (Zeichenkette, Ganzzahlen, Gleitkommazahl) und ermittelt dessen Länge mit count. Danach wird mit einer for-Schleife über alle Elemente iteriert und jedes Element gefolgt von einem HTML-Zeilenumbruch ausgegeben. Verwendet werden indizierte Arrays, count und die for-Schleife mit Indexzugriff.

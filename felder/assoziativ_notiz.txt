@@ -1,0 +1,3 @@
+Notiz zu assoziativ.php
+
+Die Datei legt ein assoziatives Feld mit den Schlüsseln name, alter und studiengang an und gibt einzelne Werte über ihre Schlüssel aus. Anschließend wird mit einer foreach-Schleife über das Feld iteriert, wobei Schlüssel und Wert getrennt ausgegeben werden. Verwendet werden assoziative Arrays, der Zugriff per Schlüssel sowie die foreach-Syntax mit $schluessel => $wert.

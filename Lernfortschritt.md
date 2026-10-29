@@ -8,3 +8,4 @@
 - 2026-10-27: Datentypen – klasse_objekt.php, klasse_objekt_notiz.txt, klasse_objekt2.php, klasse_objekt2_notiz.txt
 - 2026-10-27: Ausgabe mit echo und print – echo.php, echo_notiz.txt, print.php, print_notiz.txt
 - 2026-10-29: Zeichenketten und Arrays – zeichenketten_funktionen.php, zeichenketten_funktionen_notiz.txt, feld1.php, feld1_notiz.txt
+- 2026-10-29: Arrays – index.php, index_notiz.txt, assoziativ.php, assoziativ_notiz.txt
