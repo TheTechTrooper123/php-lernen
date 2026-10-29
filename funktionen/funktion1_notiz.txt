@@ -1,0 +1,3 @@
+Notiz zu funktion1.php
+
+Die Datei definiert eine einfache Funktion namens Hallo_Welt, die lediglich den Text "Hallo Welt" ausgibt. Nach der Definition wird die Funktion einmal aufgerufen, wodurch der Text auf dem Bildschirm erscheint. Verwendet werden die Definition und der Aufruf einer parameterlosen Funktion.

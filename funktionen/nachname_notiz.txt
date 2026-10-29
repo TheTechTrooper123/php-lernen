@@ -1,0 +1,3 @@
+Notiz zu nachname.php
+
+Die Datei definiert die Funktion voller_name, die einen Vornamen als Argument entgegennimmt und diesen zusammen mit dem festen Nachnamen ausgibt. Die Funktion wird anschließend mit dem Wert "Till" aufgerufen. Verwendet werden die Definition und der Aufruf einer Funktion mit einem Argument sowie die Stringverkettung per Punktoperator.
