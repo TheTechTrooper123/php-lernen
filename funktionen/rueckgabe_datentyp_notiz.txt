@@ -1,0 +1,3 @@
+Notiz zu rueckgabe_datentyp.php
+
+Die Datei aktiviert mit declare(strict_types=1) die strikte Typisierung und definiert die Funktion multipliziere, deren erster Parameter als float typisiert ist und die als Rückgabedatentyp float angibt. Die Funktion multipliziert die drei Argumente und gibt das Produkt mit return zurück, das anschließend direkt per echo ausgegeben wird. Verwendet werden typisierte Parameter, ein Rückgabetyp sowie strenge Typisierung.

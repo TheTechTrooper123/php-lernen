@@ -1,0 +1,3 @@
+Notiz zu argument_per_referenz.php
+
+Die Datei aktiviert mit declare(strict_types=1) die strikte Typisierung und definiert die Funktion mein_alter, die ihr Argument per Referenz (&$alter) entgegennimmt. Innerhalb der Funktion wird das Alter ausgegeben und um 5 erhöht, wobei diese Änderung durch die Referenz auch außerhalb der Funktion auf die Variable $jahr wirkt. Nach dem Aufruf mein_alter($jahr) wird der veränderte Wert erneut ausgegeben. Verwendet werden Referenzübergabe mit & und strenge Typisierung.

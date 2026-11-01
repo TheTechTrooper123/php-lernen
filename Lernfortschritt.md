@@ -14,3 +14,4 @@
 - 2026-10-29: Schleifen – do_while.php, do_while_notiz.txt, foreach.php, foreach_notiz.txt
 - 2026-10-29: Funktionen – funktion1.php, funktion1_notiz.txt, nachname.php, nachname_notiz.txt
 - 2026-11-01: Funktionen – voller_name_alter.php, voller_name_alter_notiz.txt, standard_argument.php, standard_argument_notiz.txt
+- 2026-11-01: Funktionen – argument_per_referenz.php, argument_per_referenz_notiz.txt, rueckgabe_datentyp.php, rueckgabe_datentyp_notiz.txt
