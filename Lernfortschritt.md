@@ -16,3 +16,4 @@
 - 2026-11-01: Funktionen – voller_name_alter.php, voller_name_alter_notiz.txt, standard_argument.php, standard_argument_notiz.txt
 - 2026-11-01: Funktionen – argument_per_referenz.php, argument_per_referenz_notiz.txt, rueckgabe_datentyp.php, rueckgabe_datentyp_notiz.txt
 - 2026-11-01: Funktionen – strict.php, strict_notiz.txt, kein_strict.php, kein_strict_notiz.txt
+- 2026-11-01: Superglobale Variablen – server.php, server_notiz.txt, globale.php, globale_notiz.txt

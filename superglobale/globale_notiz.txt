@@ -1,0 +1,3 @@
+Notiz zu globale.php
+
+Das Skript legt außerhalb der Funktion die globalen Variablen $var1 und $var2 an. In der Funktion division() wird über die Superglobale $GLOBALS auf diese Werte zugegriffen und das Ergebnis der Division in $GLOBALS['wert'] gespeichert. Weil $GLOBALS das globale Variablenfeld ist, steht $wert anschließend auch außerhalb der Funktion zur Verfügung und wird dort per echo ausgegeben. Verwendet wird die Superglobale $GLOBALS zur Überbrückung des Gültigkeitsbereichs.
