@@ -1,0 +1,3 @@
+Notiz zu standard_argument.php
+
+Die Datei aktiviert die strikte Typisierung und definiert zwei Funktionen. Die Funktion information erwartet einen string-Parameter, greift aber auf die nirgends definierte Variable $alter zu, und wird zudem fälschlich mit zwei Argumenten aufgerufen. Die Funktion Hoehe besitzt einen Standardparameter (int $groesse = 6) und gibt bei Aufruf ohne Argument den Standardwert aus. Verwendet werden Standardargumente, Typparameter und declare(strict_types=1); das Skript enthält bewusst fehlerhafte Aufrufe.

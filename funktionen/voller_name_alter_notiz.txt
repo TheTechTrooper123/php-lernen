@@ -1,0 +1,3 @@
+Notiz zu voller_name_alter.php
+
+Die Datei definiert die Funktion meine_info mit zwei Argumenten (Vorname und Alter), die eine zusammengesetzte Vorstellung ausgibt. Die Funktion wird anschließend mit den Werten "Till" und 28 aufgerufen. Verwendet werden die Definition und der Aufruf einer Funktion mit mehreren Argumenten sowie die Stringverkettung.
