@@ -1,0 +1,3 @@
+Notiz zu anfrage.php
+
+Das Skript zeigt ein HTML-Formular, das seine Daten per POST an sich selbst sendet (action über $_SERVER["PHP_SELF"]). Nach dem Absenden prüft es $_SERVER["REQUEST_METHOD"] und liest den eingegebenen Namen über die Superglobale $_REQUEST aus. Mit empty() wird geprüft, ob das Feld leer ist, und entsprechend eine Meldung oder der Name ausgegeben. Verwendete Konzepte sind die Superglobalen $_SERVER und $_REQUEST, das dynamische Formularziel sowie die Ausgabe per echo.

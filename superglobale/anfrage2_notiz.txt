@@ -1,0 +1,3 @@
+Notiz zu anfrage2.php
+
+Diese Datei enthält ein Formular mit drei Feldern (voller_name, studiengang, alter), das per POST an dieselbe Seite gesendet wird. Bei einer POST-Anfrage werden die Werte über die Superglobale $_REQUEST in Variablen übernommen. Danach prüft das Skript mit empty(), ob die Felder gefüllt sind, und gibt bei fehlenden Eingaben eine rote Fehlermeldung aus, sonst die eingegebenen Informationen. Verwendet werden die Superglobalen $_SERVER und $_REQUEST sowie bedingte Anweisungen und Ausgabe mit echo.
