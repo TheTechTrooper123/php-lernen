@@ -1,0 +1,3 @@
+Notiz zu strict.php
+
+Die Datei aktiviert mit declare(strict_types=1) die strikte Typisierung und definiert die Funktion zusammenzaehlen, deren erster Parameter als int typisiert ist. Der erste Aufruf mit der Zeichenkette "1 holla" löst wegen der strikten Typen einen fatalen Typfehler aus; der zweite Aufruf mit 3 und 4 funktioniert normal. Verwendet werden strenge Typisierung, typisierte Parameter und return.

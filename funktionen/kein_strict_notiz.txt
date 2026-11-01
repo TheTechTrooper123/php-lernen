@@ -1,0 +1,3 @@
+Notiz zu kein_strict.php
+
+Die Datei definiert die Funktion multiplikation mit zwei als int typisierten Parametern und ruft sie mit den Werten 10 und der Zeichenkette "2 Tage" auf. Da kein declare(strict_types=1) gesetzt ist, versucht PHP die Zeichenkette automatisch in eine Zahl umzuwandeln (schwache Typisierung). Die Kommentare weisen darauf hin, dass dieser Aufruf in PHP 8.1 einen Typfehler auslöst, während PHP 7.4 nur eine Warnung wegen eines nicht wohlgeformten numerischen Werts ausgibt. Verwendet werden Funktionen mit Typparametern und das Konzept der schwachen Typisierung.
