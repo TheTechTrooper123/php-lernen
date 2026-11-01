@@ -18,3 +18,4 @@
 - 2026-11-01: Funktionen – strict.php, strict_notiz.txt, kein_strict.php, kein_strict_notiz.txt
 - 2026-11-01: Superglobale Variablen – server.php, server_notiz.txt, globale.php, globale_notiz.txt
 - 2026-11-01: Superglobale Variablen – anfrage.php, anfrage_notiz.txt, anfrage2.php, anfrage2_notiz.txt
+- 2026-11-01: Formulare – index.php, index_notiz.txt, index1.php, index1_notiz.txt
