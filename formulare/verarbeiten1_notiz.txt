@@ -1,0 +1,3 @@
+Notiz zu verarbeiten1.php
+
+Die Datei empfängt die per POST von index1.php gesendeten Formulardaten und gibt sie in einer HTML-Seite aus. Dabei werden die Werte aus $_POST['name'] und $_POST['email'] direkt in die Ausgabe eingebettet. Verwendet werden die Superglobale $_POST und echo zur Ausgabe der empfangenen Formularwerte. Hinweis: Eine Prüfung oder Bereinigung der Eingaben fehlt hier.

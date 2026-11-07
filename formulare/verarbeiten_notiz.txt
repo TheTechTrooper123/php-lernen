@@ -1,0 +1,3 @@
+Notiz zu verarbeiten.php
+
+Diese Datei ist vollständig leer und enthält weder HTML noch PHP-Code. Es findet also keinerlei Verarbeitung oder Ausgabe statt, sie könnte als Platzhalter oder unfertige Datei angelegt worden sein.
