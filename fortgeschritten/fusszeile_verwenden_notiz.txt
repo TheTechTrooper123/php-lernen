@@ -1,0 +1,3 @@
+Notiz zu fusszeile_verwenden.php
+
+Diese Datei ist eine HTML-Seite mit Begrüßungstext und bindet am Ende eine Fußzeile ein. Dazu wird die PHP-Anweisung include './fusszeile.php' verwendet, die den Inhalt der externen Datei an dieser Stelle ausgibt. Das zentrale PHP-Konzept ist hier include zum Einbinden wiederverwendbarer Bausteine. Die Originaldatei selbst enthält kaum Logik; der eigentliche Inhalt der Fußzeile kommt aus fusszeile.php.

@@ -1,0 +1,3 @@
+Notiz zu fwrite.php
+
+Dieses Skript öffnet bzw. erstellt ../dokument3.txt im Modus "w", der eine bestehende Datei überschreibt. Nach dem Öffnen mit fopen werden vier Zeilen nacheinander über fwrite in die Datei geschrieben. Danach wird die Datei mit fclose geschlossen. Verwendet werden die Datei-Funktionen fopen, fwrite und fclose sowie die or die-Konstruktion zur Fehlerbehandlung beim Öffnen.
