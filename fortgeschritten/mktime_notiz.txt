@@ -1,0 +1,3 @@
+Notiz zu mktime.php
+
+Das Skript erzeugt mit mktime(12, 45, 56, 04, 28, 2024) einen Unix-Zeitstempel aus Stunde, Minute, Sekunde, Monat, Tag und Jahr. Dieser Zeitstempel wird anschließend mit date() und dem Format "Y/m/d H:i:sa" in eine lesbare Datums- und Zeitangabe umgewandelt und ausgegeben. Verwendet werden die Funktionen mktime und date zur Umrechnung zwischen Zeitstempel und formatiertem Datum.

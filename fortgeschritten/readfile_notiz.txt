@@ -1,0 +1,3 @@
+Notiz zu readfile.php
+
+Diese kurze Datei liest den Inhalt von ../dokument.txt und gibt ihn mit echo direkt aus. Hierfür wird die Funktion readfile verwendet, die eine Datei komplett in den Ausgabepuffer schreibt und zusätzlich die Anzahl der gelesenen Bytes zurückgibt. Der Aufruf steht direkt in einem echo, sodass sowohl der Dateiinhalt als auch die Byte-Anzahl ausgegeben werden. Zentrales Konzept ist readfile als einfache Ein-Schritt-Lösung zum Ausgeben von Dateiinhalten.
