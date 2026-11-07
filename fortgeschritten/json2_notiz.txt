@@ -1,0 +1,3 @@
+Notiz zu json2.php
+
+Das Skript enthält einen JSON-String mit den Feldern name, studiengang und cgpa. Dieser wird mit json_decode($json, true) dekodiert, wobei der zweite Parameter true bewirkt, dass ein assoziatives PHP-Array statt eines Objekts zurückgegeben wird. Das Ergebnis wird per var_dump ausgegeben, um Struktur und Typen sichtbar zu machen. Zentrales Konzept ist json_decode in der Array-Variante.

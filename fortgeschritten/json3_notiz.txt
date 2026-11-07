@@ -1,0 +1,3 @@
+Notiz zu json3.php
+
+Das Skript dekodiert denselben JSON-String einmal mit json_decode($json) zu einem PHP-Objekt und einmal mit json_decode($json, true) zu einem assoziativen Array. Beim Objekt werden Werte über den Pfeiloperator ($objekt->cgpa) angesprochen, beim Array über den Schlüssel ($array["name"]). Zusätzlich wird in beiden Fällen mit foreach über die Schlüssel-Wert-Paare iteriert. Damit demonstriert die Datei die beiden Decode-Varianten und den Zugriff auf die Ergebnisse.
