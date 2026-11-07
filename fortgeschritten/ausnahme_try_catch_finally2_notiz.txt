@@ -1,0 +1,3 @@
+Notiz zu ausnahme_try_catch_finally2.php
+
+Die Funktion division() wirft eine Exception mit throw new Exception, wenn der Divisor Null ist, und gibt sonst das Ergebnis zurück. Im try-Block wird division(5, 0) aufgerufen, wodurch die Ausnahme geworfen wird. Es gibt hier keinen catch-Block, aber einen finally-Block, der unabhängig vom Fehler "Prozess abgeschlossen." ausgibt. Die unbehandelte Exception wird anschließend weiter propagiert und führt zum Abbruch. Zeigt die Verwendung von try/finally ohne catch.

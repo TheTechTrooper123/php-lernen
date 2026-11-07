@@ -1,0 +1,3 @@
+Notiz zu cookie.php
+
+Das Skript legt mit setcookie ein Cookie namens "benutzer" mit dem Wert "Unbekannter Benutzer" an. Als Ablaufzeit wird time() + (86400 * 30) gesetzt (30 Tage), und der Pfad "/" macht das Cookie im gesamten Web-Verzeichnis verfügbar. Im HTML-Teil wird mit isset($_COOKIE[...]) geprüft, ob das Cookie beim Client bereits gesetzt ist. Ist es vorhanden, werden Name und Wert über die Supervariable $_COOKIE ausgegeben, andernfalls eine Meldung. Zeigt das Setzen und Auslesen von Cookies.
