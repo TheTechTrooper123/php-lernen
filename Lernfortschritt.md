@@ -20,3 +20,4 @@
 - 2026-11-01: Superglobale Variablen – anfrage.php, anfrage_notiz.txt, anfrage2.php, anfrage2_notiz.txt
 - 2026-11-01: Formulare – index.php, index_notiz.txt, index1.php, index1_notiz.txt
 - 2026-11-07: Formulare – verarbeiten.php, verarbeiten_notiz.txt, verarbeiten1.php, verarbeiten1_notiz.txt
+- 2026-11-07: Fortgeschrittene Themen – dokument.txt, dokument2.txt, dokument3.txt

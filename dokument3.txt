@@ -1,0 +1,6 @@
+Person 1
+Person 2
+Person 3
+Person 4
+Person 1 hat Person 2 und Person 3 geboren
+Person 4 hat Person 5 geboren
