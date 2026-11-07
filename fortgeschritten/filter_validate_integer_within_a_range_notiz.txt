@@ -1,0 +1,3 @@
+Notiz zu filter_validate_integer_within_a_range.php
+
+Das Skript prüft die Variable $wert (200) mit filter_var() und dem Filter FILTER_VALIDATE_INT. Über das Options-Array werden mit "options" die Grenzen "min_range" (1) und "max_range" (200) gesetzt, sodass nur Ganzzahlen innerhalb dieses Bereichs akzeptiert werden. Das Ergebnis wird mit === false verglichen, um zwischen ungültigem und gültigem Wert zu unterscheiden. echo gibt aus, ob der Wert im zulässigen Bereich liegt. Zeigt die Bereichsvalidierung einer Ganzzahl mit filter_var().

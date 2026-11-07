@@ -1,0 +1,3 @@
+Notiz zu filter_validate_int.php
+
+Das Skript prüft die Variable $wert (0) mit filter_var() und FILTER_VALIDATE_INT, ob es sich um eine gültige Ganzzahl handelt. Die Bedingung verknüpft zwei Vergleiche mit ||; da die Zahl 0 einen Sonderfall darstellt (der Rückgabewert 0 wird von === 0 erfasst), wird die Prüfung hier korrekt behandelt. Im Erfolgsfall gibt echo aus, dass es eine gültige Ganzzahl ist, sonst wird zusätzlich mit gettype() der Datentyp ausgegeben. Veranschaulicht FILTER_VALIDATE_INT und die Fallstricke beim Vergleich mit 0.

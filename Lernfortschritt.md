@@ -31,3 +31,4 @@
 - 2026-11-07: Fortgeschrittene Themen – filter_list.php, filter_list_notiz.txt, filter_sanitise_and_validate_email.php, filter_sanitise_and_validate_email_notiz.txt
 - 2026-11-07: Fortgeschrittene Themen – filter_sanitise_and_validate_url.php, filter_sanitise_and_validate_url_notiz.txt, filter_sanitize_string.php, filter_sanitize_string_notiz.txt
 - 2026-11-07: Fortgeschrittene Themen – filter_validateIPV4.php, filter_validateIPV4_notiz.txt, filter_validateURLwithQueryString.php, filter_validateURLwithQueryString_notiz.txt
+- 2026-11-07: Fortgeschrittene Themen – filter_validate_int.php, filter_validate_int_notiz.txt, filter_validate_integer_within_a_range.php, filter_validate_integer_within_a_range_notiz.txt
