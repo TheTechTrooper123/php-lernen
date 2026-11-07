@@ -1,0 +1,3 @@
+Notiz zu fgetc.php
+
+Die Datei "../dokument.txt" wird mit fopen im Lesemodus geöffnet; bei einem Fehler beendet or die das Skript mit einer Meldung. In einer while-Schleife wird mit !feof($datei) geprüft, ob das Dateiende erreicht ist. Solange nicht, liest fgetc() jeweils ein einzelnes Zeichen aus der Datei und gibt es mit echo aus. Danach wird die Datei mit fclose geschlossen. Demonstriert das zeichenweise (statt zeilenweise) Einlesen einer Datei.
