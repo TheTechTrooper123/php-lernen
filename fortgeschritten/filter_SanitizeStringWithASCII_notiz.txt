@@ -1,0 +1,3 @@
+Notiz zu filter_SanitizeStringWithASCII.php
+
+Der String enthält neben einem HTML-Tag (h1) auch Sonderzeichen wie Æ, Ø und Å. Mit filter_var() und FILTER_SANITIZE_STRING werden zunächst alle HTML-Tags entfernt. Zusätzlich sorgt das Flag FILTER_FLAG_STRIP_HIGH dafür, dass alle Zeichen mit einem ASCII-Wert größer als 127 entfernt werden. Das bereinigte Ergebnis wird mit echo ausgegeben. Zeigt die Kombination eines Filters mit einem zusätzlichen Flag. Hinweis: FILTER_SANITIZE_STRING ist seit PHP 8.1 veraltet.

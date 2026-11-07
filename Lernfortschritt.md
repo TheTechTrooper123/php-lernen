@@ -27,3 +27,4 @@
 - 2026-11-07: Fortgeschrittene Themen – cookie_loeschen.php, cookie_loeschen_notiz.txt, cookie_pruefen.php, cookie_pruefen_notiz.txt
 - 2026-11-07: Fortgeschrittene Themen – datum.php, datum_notiz.txt, dokument.txt
 - 2026-11-07: Fortgeschrittene Themen – feof.php, feof_notiz.txt, fgetc.php, fgetc_notiz.txt
+- 2026-11-07: Fortgeschrittene Themen – fgets.php, fgets_notiz.txt, filter_SanitizeStringWithASCII.php, filter_SanitizeStringWithASCII_notiz.txt

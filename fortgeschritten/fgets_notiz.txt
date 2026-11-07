@@ -1,0 +1,3 @@
+Notiz zu fgets.php
+
+Das Skript öffnet "../dokument.txt" mit fopen im Lesemodus und beendet bei einem Fehler über or die die Ausführung. Mit fgets($datei) wird genau eine Zeile aus der geöffneten Datei gelesen und direkt per echo ausgegeben. Anschließend wird die Datei mit fclose geschlossen. Minimales Beispiel zum Lesen einer einzelnen Zeile mit fgets.
