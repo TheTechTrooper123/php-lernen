@@ -1,0 +1,3 @@
+Notiz zu filter_validateURLwithQueryString.php
+
+Das Skript definiert eine Beispiel-URL und möchte prüfen, ob sie gültig ist und einen Query-String enthält. Dazu wird FILTER_VALIDATE_URL zusammen mit dem Flag FILTER_FLAG_QUERY_REQUIRED verwendet. Allerdings fehlt im filter_var()-Aufruf das zu prüfende Argument $url, sodass der Funktion eine ganze Zahl (der Filter selbst) als Wert übergeben wird — die Prüfung ist dadurch fehlerhaft. Die Bedingung wertet das Ergebnis mit === false aus und gibt eine entsprechende Meldung aus. Zeigt den Einsatz eines Flags (query required), enthält aber einen Fehler durch das fehlende Argument.

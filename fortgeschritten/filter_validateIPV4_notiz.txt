@@ -1,0 +1,3 @@
+Notiz zu filter_validateIPV4.php
+
+Das Skript prüft die Variable $ip, die eine IPv6-Adresse enthält, mit filter_var(). Als Filter wird FILTER_VALIDATE_IP zusammen mit dem Flag FILTER_FLAG_IPV6 verwendet, um speziell das IPv6-Format zu verlangen. Das Ergebnis wird mit === false verglichen. echo gibt aus, ob die Adresse eine gültige IPv6-Adresse ist oder nicht. Zeigt die gezielte Validierung eines Adresstyps über ein Flag (entgegen dem Dateinamen wird hier IPv6 geprüft).
