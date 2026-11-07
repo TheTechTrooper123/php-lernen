@@ -1,0 +1,3 @@
+Notiz zu datum.php
+
+Das Skript gibt mit echo und der Funktion date() das heutige Datum aus. Als Format-String wird "l, d.m.Y" verwendet: "l" liefert den ausgeschriebenen Wochentag, "d" den Tag, "m" den Monat und "Y" das vierstellige Jahr, getrennt durch Punkte und Komma. Es wird kein Zeitstempel übergeben, daher nutzt date() die aktuelle Serverzeit. Einfaches Beispiel zur formatierten Datumsausgabe.
