@@ -1,0 +1,3 @@
+Notiz zu fwrite2.php
+
+Das Skript öffnet die Datei ../dokument3.txt im Modus "a" (Append), sodass neuer Inhalt an das vorhandene Ende angehängt wird. Mit fopen und dem or die()-Konstrukt wird ein Öffnungsfehler abgefangen. Anschließend werden zwei Textzeilen per fwrite in die Datei geschrieben und die Datei mit fclose wieder geschlossen. Verwendete Konzepte sind also fopen, fwrite, fclose sowie die or die-Fehlerbehandlung.
