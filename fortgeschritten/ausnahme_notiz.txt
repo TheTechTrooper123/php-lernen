@@ -1,0 +1,3 @@
+Notiz zu ausnahme.php
+
+Die Funktion division() prüft, ob der Divisor gleich Null ist, und wirft in diesem Fall mit throw new Exception eine Ausnahme mit der Meldung "Fehler: Division durch Null". Andernfalls wird die Division berechnet und das Ergebnis mit return zurückgegeben. Der Aufruf division(2, 0) löst die Ausnahme aus, die hier jedoch nicht mit try/catch abgefangen wird. Da kein catch-Block vorhanden ist, beendet die unbehandelte Exception das Skript mit einem Fatal Error. Demonstriert das Werfen von Exceptions ohne Fehlerbehandlung.

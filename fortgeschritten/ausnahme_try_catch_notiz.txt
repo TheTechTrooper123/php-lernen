@@ -1,0 +1,3 @@
+Notiz zu ausnahme_try_catch.php
+
+Die Funktion division() wirft mit throw new Exception("Fehler: Division durch Null") eine Ausnahme, wenn der Divisor Null ist, und gibt sonst das Ergebnis der Division zurück. Im try-Block wird division(3, 0) aufgerufen, wodurch die Ausnahme ausgelöst wird. Der zugehörige catch-Block fängt das Exception-Objekt in $e ab und gibt die Meldung "Division konnte nicht ausgeführt werden" aus. Demonstriert die grundlegende try/catch-Fehlerbehandlung in PHP.
