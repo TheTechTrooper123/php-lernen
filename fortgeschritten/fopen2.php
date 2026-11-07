@@ -1,0 +1,1 @@
+<?php fopen("../dokument2.txt", "w"); ?>

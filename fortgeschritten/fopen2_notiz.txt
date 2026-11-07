@@ -1,0 +1,3 @@
+Notiz zu fopen2.php
+
+Das Skript besteht aus einer einzigen Anweisung, die mit fopen("../dokument2.txt", "w") eine Datei im Schreibmodus öffnet. Der Modus "w" legt die Datei an, falls sie nicht existiert, oder leert (trunkiert) eine vorhandene Datei. Es wird kein Dateihandle in einer Variablen gespeichert und die Datei nicht wieder mit fclose geschlossen. Minimales Beispiel zum Öffnen bzw. Erstellen einer Datei im Schreibmodus.

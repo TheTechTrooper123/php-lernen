@@ -1,0 +1,3 @@
+Notiz zu fusszeile.php
+
+Das Skript gibt mit echo einen HTML-Absatz für eine Fußzeile aus. Es wird der HTML-Entitätscode &copy; für das Copyright-Zeichen verwendet. Das aktuelle Jahr wird dynamisch über die Funktion date("Y") ermittelt und in die Zeichenkette eingefügt, gefolgt vom Namen "Till Siskos". Zeigt die Verwendung von date() zur dynamischen Jahresausgabe innerhalb von HTML.
