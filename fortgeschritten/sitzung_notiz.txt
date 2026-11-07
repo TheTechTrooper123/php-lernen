@@ -1,0 +1,3 @@
+Notiz zu sitzung.php
+
+Das Skript öffnet mit session_start() eine neue bzw. bestehende Sitzung. Danach werden zwei Sitzungsvariablen gesetzt: $_SESSION["hautfarbe"] bekommt den Wert "braun" und $_SESSION["haarfarbe"] den Wert "blau". Eine Ausgabe bestätigt das Setzen. Kernkonzepte sind session_start und das Speichern von Werten im superglobalen $_SESSION-Array.

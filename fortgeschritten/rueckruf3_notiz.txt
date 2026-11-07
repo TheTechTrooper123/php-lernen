@@ -1,0 +1,3 @@
+Notiz zu rueckruf3.php
+
+Die Datei definiert zwei Funktionen ausruf und frage, die an einen übergebenen String ein "! " bzw. "? " anhängen. In der Funktion formatiert wird der Parameter $format als Callback entgegengenommen und über $format($str) aufgerufen. Dadurch kann formatiert("Hallo", "ausruf") das jeweilige Verhalten als Funktionsnamen übergeben. Demonstriert wird das Konzept benutzerdefinierter Callback-Funktionen (Variable Functions).

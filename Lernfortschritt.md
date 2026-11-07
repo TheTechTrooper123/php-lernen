@@ -42,3 +42,4 @@
 - 2026-11-07: Fortgeschrittene Themen – menue.php, menue_notiz.txt, menue_verwenden.php, menue_verwenden_notiz.txt
 - 2026-11-07: Fortgeschrittene Themen – mktime.php, mktime_notiz.txt, readfile.php, readfile_notiz.txt
 - 2026-11-07: Fortgeschrittene Themen – rueckruf.php, rueckruf_notiz.txt, rueckruf2.php, rueckruf2_notiz.txt
+- 2026-11-07: Fortgeschrittene Themen – rueckruf3.php, rueckruf3_notiz.txt, sitzung.php, sitzung_notiz.txt
