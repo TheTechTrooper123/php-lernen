@@ -1,0 +1,3 @@
+Notiz zu json.php
+
+Die Datei erstellt zwei PHP-Arrays: ein assoziatives Array mit Schlüssel-Wert-Paaren und ein indiziertes Array. Beide werden mit json_encode in JSON umgewandelt und ausgegeben. Das assoziative Array wird dabei zu einem JSON-Objekt, das indizierte Array zu einem JSON-Array. Das zentrale Konzept ist json_encode zur Umwandlung von PHP-Daten in JSON.

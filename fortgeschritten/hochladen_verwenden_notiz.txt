@@ -1,0 +1,3 @@
+Notiz zu hochladen_verwenden.php
+
+Dieses Skript verarbeitet den Datei-Upload aus dem Formular und nutzt dafür das superglobale Array $_FILES mit den Schlüsseln name, tmp_name und size. Es prüft per getimagesize, ob die hochgeladene Datei ein echtes Bild ist, kontrolliert mit file_exists, ob die Zieldatei bereits existiert, und begrenzt die Größe auf 500 KB. Der Dateityp wird über pathinfo (PATHINFO_EXTENSION) und strtolower eingeschränkt, erlaubt sind jpg, png, jpeg und gif. Nur bei erfolgreicher Prüfung ($hochladen_ok) verschiebt move_uploaded_file die temporäre Datei ins Zielverzeichnis ./hochgeladen/, und basename sowie htmlspecialchars werden zur sicheren Ausgabe des Dateinamens genutzt.
