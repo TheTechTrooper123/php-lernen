@@ -1,0 +1,3 @@
+Notiz zu rueckruf2.php
+
+Das Skript definiert ein indiziertes Array mit vier Artikeln und ermittelt mit array_map die Länge jedes Strings. Als Callback wird hier statt eines Funktionsnamens eine anonyme (closure-)Funktion verwendet, die jede Zeichenkette über strlen in ihre Länge umwandelt. Das Ergebnis-Array wird mit print_r ausgegeben. Wichtige Konzepte sind array_map als Callback-Funktion und die anonyme Funktion.

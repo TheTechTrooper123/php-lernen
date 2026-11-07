@@ -1,0 +1,3 @@
+Notiz zu rueckruf.php
+
+Das Skript definiert die Funktion callback, die die Länge eines Strings mit strlen zurückgibt. Auf ein Array mit vier Artikeln wird array_map mit dem Funktionsnamen "callback" als String angewendet, sodass jeder Eintrag durch diese Funktion läuft. Das entstehende Array der Längen wird mit print_r ausgegeben. Wichtige Konzepte sind array_map und die Übergabe einer benannten Funktion als Callback.
