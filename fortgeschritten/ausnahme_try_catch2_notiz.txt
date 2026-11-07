@@ -1,0 +1,3 @@
+Notiz zu ausnahme_try_catch2.php
+
+Die Funktion voller_name() prüft, ob der Vorname "Till" lautet, und wirft andernfalls eine Exception mit throw new Exception. Im try-Block wird voller_name("Person 9", "Siskos") aufgerufen und mit echo ausgegeben. Da die Bedingung fehlschlägt, fängt der catch-Block die Exception ab und liest über die Methoden getCode(), getMessage(), getFile() und getLine() Details aus dem Exception-Objekt. Diese werden in einer formatierten Fehlermeldung mit Datei, Zeile, Code und Nachricht ausgegeben. Zeigt den Zugriff auf die Eigenschaften einer Exception.

@@ -22,3 +22,4 @@
 - 2026-11-07: Formulare – verarbeiten.php, verarbeiten_notiz.txt, verarbeiten1.php, verarbeiten1_notiz.txt
 - 2026-11-07: Fortgeschrittene Themen – dokument.txt, dokument2.txt, dokument3.txt
 - 2026-11-07: Fortgeschrittene Themen – ausnahme.php, ausnahme_notiz.txt, ausnahme_try_catch.php, ausnahme_try_catch_notiz.txt
+- 2026-11-07: Fortgeschrittene Themen – ausnahme_try_catch2.php, ausnahme_try_catch2_notiz.txt, ausnahme_try_catch_finally.php, ausnahme_try_catch_finally_notiz.txt

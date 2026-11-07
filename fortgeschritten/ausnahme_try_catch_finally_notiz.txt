@@ -1,0 +1,3 @@
+Notiz zu ausnahme_try_catch_finally.php
+
+Die Funktion voller_name() wirft per throw new Exception einen Fehler, wenn der Vorname nicht "Till" ist, und gibt sonst den zusammengesetzten Namen zurück. Der try-Block ruft voller_name("Person 9", "Siskos") auf, was die Exception auslöst. Der catch-Block fängt sie ab und gibt "Voller Name konnte nicht ausgegeben werden" aus. Der finally-Block gibt danach immer "Prozess beendet" aus. Veranschaulicht die vollständige try/catch/finally-Struktur zur Ausnahmebehandlung.
