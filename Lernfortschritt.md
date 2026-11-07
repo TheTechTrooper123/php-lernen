@@ -28,3 +28,4 @@
 - 2026-11-07: Fortgeschrittene Themen – datum.php, datum_notiz.txt, dokument.txt
 - 2026-11-07: Fortgeschrittene Themen – feof.php, feof_notiz.txt, fgetc.php, fgetc_notiz.txt
 - 2026-11-07: Fortgeschrittene Themen – fgets.php, fgets_notiz.txt, filter_SanitizeStringWithASCII.php, filter_SanitizeStringWithASCII_notiz.txt
+- 2026-11-07: Fortgeschrittene Themen – filter_list.php, filter_list_notiz.txt, filter_sanitise_and_validate_email.php, filter_sanitise_and_validate_email_notiz.txt

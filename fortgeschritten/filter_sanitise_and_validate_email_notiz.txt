@@ -1,0 +1,3 @@
+Notiz zu filter_sanitise_and_validate_email.php
+
+Das Skript definiert eine Beispiel-E-Mail-Adresse und bereinigt sie zunächst mit filter_var() und dem Filter FILTER_SANITIZE_EMAIL, um unzulässige Zeichen zu entfernen. Anschließend wird die bereinigte Adresse mit FILTER_VALIDATE_EMAIL geprüft, indem das Ergebnis auf === false verglichen wird. Je nach Ergebnis gibt echo aus, ob es sich um eine gültige E-Mail-Adresse handelt oder nicht. Zeigt die Kombination aus Bereinigen (sanitize) und Prüfen (validate) mit filter_var().

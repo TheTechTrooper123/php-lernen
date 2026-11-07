@@ -1,0 +1,3 @@
+Notiz zu filter_list.php
+
+Die Datei erzeugt eine HTML-Tabelle, deren Kopfzeile die Spalten "Filtername" und "Filter-ID" enthält. In einem PHP-Block wird über foreach über das Ergebnis von filter_list() iteriert, das alle verfügbaren Filter der Filter-Erweiterung zurückgibt. Für jeden Filter werden mit echo der Name und die zugehörige numerische ID über filter_id() in Tabellenzeilen ausgegeben. Verwendet filter_list() und filter_id() zur Auflistung der installierten Filter, eingebettet in HTML mit etwas CSS.
