@@ -1,0 +1,3 @@
+Notiz zu hochladen.php
+
+Diese Datei ist ein reines HTML-Formular zum Hochladen einer Datei. Das form-Tag nutzt method="post" sowie enctype="multipart/form-data", was für Datei-Uploads zwingend erforderlich ist. Ein input-Element vom Typ "file" mit dem Namen meine_datei wählt die Datei aus, ein submit-Feld löst das Absenden aus. Das Formular schickt die Daten an das Verarbeitungsskript hochladen_verwenden.php.

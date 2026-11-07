@@ -36,3 +36,4 @@
 - 2026-11-07: Fortgeschrittene Themen – fopen2.php, fopen2_notiz.txt, fusszeile.php, fusszeile_notiz.txt
 - 2026-11-07: Fortgeschrittene Themen – fusszeile_verwenden.php, fusszeile_verwenden_notiz.txt, fwrite.php, fwrite_notiz.txt
 - 2026-11-07: Fortgeschrittene Themen – fwrite2.php, fwrite2_notiz.txt, passport3.jpeg
+- 2026-11-07: Fortgeschrittene Themen – passport_photo.jpeg, hochladen.php, hochladen_notiz.txt
