@@ -1,0 +1,3 @@
+Notiz zu fopen.php
+
+Das Skript öffnet die Datei "../dokument.txt" im Lesemodus mit fopen und beendet das Programm über or die mit einer Fehlermeldung, falls die Datei nicht geöffnet werden kann. Der komplette Inhalt wird mit fread() gelesen, wobei filesize() die zu lesende Länge (Dateigröße in Bytes) liefert, und mit echo ausgegeben. Danach wird die Datei mit fclose geschlossen. Zeigt fopen, fread, filesize und fclose im Zusammenspiel zum vollständigen Einlesen einer Datei.

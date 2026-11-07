@@ -1,0 +1,3 @@
+Notiz zu filter_validate_ip.php
+
+Das Skript prüft die Variable $ip ("127.0.0.1") mit filter_var() und dem Filter FILTER_VALIDATE_IP auf Gültigkeit als IP-Adresse. Das Ergebnis wird mit === false verglichen, um ungültige von gültigen Adressen zu unterscheiden. Je nach Ausgang gibt echo aus, ob die Adresse eine gültige IP-Adresse ist oder nicht. Einfaches Beispiel zur Validierung von IPv4- und IPv6-Adressen mit FILTER_VALIDATE_IP.
