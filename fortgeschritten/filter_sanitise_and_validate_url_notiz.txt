@@ -1,0 +1,3 @@
+Notiz zu filter_sanitise_and_validate_url.php
+
+Das Skript bereinigt eine Beispiel-URL mit filter_var() und dem Filter FILTER_SANITIZE_URL, der ungültige Zeichen aus der Adresse entfernt. Danach wird die bereinigte URL mit FILTER_VALIDATE_URL validiert, wobei das Ergebnis auf === false geprüft wird. Abhängig vom Resultat gibt echo aus, ob die URL gültig ist oder nicht. Veranschaulicht das Zusammenspiel von Bereinigung und Validierung einer URL über filter_var().

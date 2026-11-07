@@ -1,0 +1,3 @@
+Notiz zu filter_sanitize_string.php
+
+Das Skript definiert einen String, der in HTML-Tags (h1) eingebettet ist. Mit filter_var() und dem Filter FILTER_SANITIZE_STRING werden alle HTML-Tags aus dem String entfernt. Das bereinigte Ergebnis wird in der Variablen gespeichert und mit echo ausgegeben. Demonstriert das Entfernen von HTML-Markup aus Benutzereingaben zur Absicherung. Hinweis: FILTER_SANITIZE_STRING gilt seit PHP 8.1 als veraltet.
