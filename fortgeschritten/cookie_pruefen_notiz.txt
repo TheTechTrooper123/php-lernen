@@ -1,0 +1,3 @@
+Notiz zu cookie_pruefen.php
+
+Zunächst wird mit setcookie ein Dummy-Cookie "dummy_cookie" mit dem Wert "dummy" und einer Laufzeit von einer Stunde (time() + 3600) gesetzt. Anschließend prüft der Code mit count($_COOKIE) > 0, ob überhaupt Cookies vorhanden sind. Je nach Ergebnis wird ausgegeben, ob Cookies aktiviert oder nicht aktiviert sind. Demonstriert das Setzen eines Test-Cookies und das Zählen der Cookie-Supervariable $_COOKIE zur Aktivitätsprüfung im Browser.

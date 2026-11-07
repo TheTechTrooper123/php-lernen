@@ -1,0 +1,3 @@
+Notiz zu cookie_loeschen.php
+
+Das Skript setzt den Cookie "benutzer" mit setcookie auf einen leeren Wert und ein Ablaufdatum in der Vergangenheit (time() - 3600, also eine Stunde zurück). Dadurch veranlasst der Browser das Löschen des Cookies. Innerhalb des HTML-Bodys wird mit echo eine Bestätigung "Cookie 'benutzer' wurde gelöscht" ausgegeben. Verwendet die Funktion setcookie zusammen mit time() zur Steuerung des Ablaufzeitpunkts.
