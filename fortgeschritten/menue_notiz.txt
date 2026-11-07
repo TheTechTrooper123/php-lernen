@@ -1,0 +1,3 @@
+Notiz zu menue.php
+
+Diese Datei gibt über echo einen HTML-Baustein mit vier Links aus, die eine Navigation (Startseite, Über, Kontakt, FAQ) bilden. Die Ausgabe erfolgt mehrzeilig innerhalb eines einzigen echo-Strings. Das Skript enthält nur Ausgabe-Logik und ist als einbindbarer Baustein für andere Seiten gedacht. Wichtiges Konzept ist hier die Ausgabe von HTML per echo.

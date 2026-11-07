@@ -1,0 +1,3 @@
+Notiz zu menue_verwenden.php
+
+Die Datei ist eine HTML-Seite, die innerhalb eines div-Containers das Menü einbindet. Dies geschieht mit der PHP-Anweisung include './menue.php', wodurch der dort erzeugte Navigations-Baustein an dieser Stelle ausgegeben wird. Unterhalb folgen ein Begrüßungstext und Absätze. Zentrales Konzept ist include zum Wiederverwenden eines externen Seitenbausteins.
