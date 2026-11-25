@@ -1,0 +1,3 @@
+Notiz zu strtotime3.php
+
+Die Datei berechnet zunächst mit strtotime("Friday") den nächsten Freitag und mit "+10 weeks" ein Enddatum. In einer while-Schleife werden dann die nächsten zehn Freitage ausgegeben, wobei jeder Zeitstempel mit date("M, d", ...) formatiert wird. Innerhalb jeder Iteration wird der Startwert über strtotime("+1 week", $anfang_datum) um eine Woche erhöht. Verwendet werden strtotime mit relativem Offset, date und eine while-Schleife.

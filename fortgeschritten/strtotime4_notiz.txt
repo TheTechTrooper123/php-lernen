@@ -1,0 +1,3 @@
+Notiz zu strtotime4.php
+
+Das Skript bestimmt mit strtotime("April 28") den Zeitstempel des nächsten 28. April und vergleicht ihn mit dem aktuellen Zeitstempel time(). Die Differenz in Sekunden wird durch 60*60*24 geteilt, um Tage zu erhalten, und mit ceil aufgerundet. Ausgegeben wird die Anzahl der Tage bis zum Geburtstag. Wichtige Konzepte sind strtotime, time und ceil sowie die Umrechnung von Sekunden in Tage.

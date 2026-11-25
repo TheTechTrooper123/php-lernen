@@ -45,3 +45,4 @@
 - 2026-11-07: Fortgeschrittene Themen – rueckruf3.php, rueckruf3_notiz.txt, sitzung.php, sitzung_notiz.txt
 - 2026-11-25: Fortgeschrittene Themen – sitzung2.php, sitzung2_notiz.txt, sitzung3.php, sitzung3_notiz.txt
 - 2026-11-25: Fortgeschrittene Themen – strtotime.php, strtotime_notiz.txt, strtotime2.php, strtotime2_notiz.txt
+- 2026-11-25: Fortgeschrittene Themen – strtotime3.php, strtotime3_notiz.txt, strtotime4.php, strtotime4_notiz.txt
