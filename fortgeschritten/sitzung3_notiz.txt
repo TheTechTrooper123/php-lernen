@@ -1,0 +1,3 @@
+Notiz zu sitzung3.php
+
+Die Datei startet mit session_start() die bereits bestehende Sitzung. Danach entfernt session_unset() alle Sitzungsvariablen, und session_destroy() beendet die Sitzung vollständig. Abschließend wird eine Bestätigung ausgegeben. Zentrale Konzepte sind session_start, session_unset und session_destroy zum Beenden einer Sitzung.

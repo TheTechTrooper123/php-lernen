@@ -1,0 +1,3 @@
+Notiz zu sitzung2.php
+
+Das Skript startet mit session_start() die Sitzung bzw. setzt sie fort. Anschließend werden die zuvor gespeicherten Sitzungsvariablen $_SESSION["hautfarbe"] und $_SESSION["haarfarbe"] ausgegeben. Zusätzlich wird mit print_r das gesamte $_SESSION-Array dargestellt, um alle Sitzungswerte zu zeigen. Kernkonzepte sind session_start und der Zugriff auf das superglobale Array $_SESSION.
