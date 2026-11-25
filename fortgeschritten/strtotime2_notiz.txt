@@ -1,0 +1,3 @@
+Notiz zu strtotime2.php
+
+Das Skript wandelt mehrere relative Zeitangaben mit strtotime in Unix-Zeitstempel um: "today", "tomorrow", "next friday" und "+6 months". Jeder Zeitstempel wird anschließend mit date() im Format "d.m.Y H:i:sa" lesbar ausgegeben. Damit zeigt die Datei, wie strtotime relative Datumsbeschreibungen versteht. Wichtige Konzepte sind strtotime und date.
